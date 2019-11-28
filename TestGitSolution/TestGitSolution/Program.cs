@@ -6,7 +6,7 @@ namespace TestGitSolution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("To Test the changed record");
         }
     }
 }
